@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @aadilmoosajee
-- 👀 I am a Higher Certificate in Information Technology Graduate, currently stuying towards a Bcom In information Technology. 
+- 👀 I am a Higher Certificate in Information Technology Graduate, currently studying towards a Bcom In information Technology. 
 - 🌱 I’m currently learning Web Development 
 
 
