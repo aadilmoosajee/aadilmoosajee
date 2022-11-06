@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @aadilmoosajee
 - 👀 I am a Higher Certificate in Information Technology Graduate, currently studying towards a Bcom In Information Technology. 
-- 🌱 I’m currently learning Web Development 
+- 🌱 I’m currently learning Web Development, my goal is to become a full stack developer. 
